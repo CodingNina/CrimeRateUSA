@@ -21,3 +21,7 @@ install.packages(c("maps", "mapproj"))
 shiny::runGitHub("CrimeRateUSA", "CodingNina", ref ="main")
 ```
 
+<h2> Dataset </h2>
+<p> The study consists of 1 dataset named "CrimeRateUSA" from year 1973. 
+This data set contains statistics, in arrests per 100,000 residents for assault, murder, and rape in each of the 50 US states in 1973
+</p>
