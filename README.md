@@ -13,3 +13,9 @@ The Shiny App has two widgets: one for selecting which crime to select and a sli
 install.packages("shiny")
 install.packages(c("maps", "mapproj"))
 ```
+
+<h2> Usage </h2>
+```R
+shiny::runGitHub("CrimeRateUSA", "CodingNina", ref ="main")
+```
+
