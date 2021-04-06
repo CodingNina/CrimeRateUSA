@@ -15,7 +15,9 @@ install.packages(c("maps", "mapproj"))
 ```
 
 <h2> Usage </h2>
+
 ```R
-# shiny::runGitHub("CrimeRateUSA", "CodingNina", ref ="main")
+# To run it, please use the following command:
+shiny::runGitHub("CrimeRateUSA", "CodingNina", ref ="main")
 ```
 
