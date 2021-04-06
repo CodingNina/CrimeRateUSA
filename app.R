@@ -25,7 +25,7 @@ ui <- fluidPage(
 
                    sliderInput("range",
                                label = "Range of %cases:",
-                               min = 0, max = 80, value = c(0, 80))
+                               min = 0, max = 100, value = c(0, 100))
                  ),
 
                  mainPanel(plotOutput("map"))
